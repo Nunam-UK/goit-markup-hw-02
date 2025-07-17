@@ -38,6 +38,11 @@ button:active {
   color: #2e2f42;
 }
 
+.header-link:hover,
+.header-link:focus {
+  color: #404bbf;
+}
+
 .header-logo {
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -45,6 +50,7 @@ button:active {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
+  text-transform: uppercase;
 }
 
 .header-logo span {
@@ -58,6 +64,7 @@ button:active {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
+  text-transform: uppercase
 }
 
 .footer-logo span {
@@ -159,6 +166,6 @@ button:active {
   color: #f4f4fd;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
