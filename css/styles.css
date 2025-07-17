@@ -82,6 +82,11 @@ button:active {
   color: #434455;
 }
 
+.contacts-item:hover,
+.contacts-item:focus {
+  color: #404bbf;
+}
+
 .order {
   background-color: #2e2f42;
 }
