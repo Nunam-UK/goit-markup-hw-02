@@ -107,6 +107,8 @@ button {
   font-size: 56px;
   line-height: 1.07;
   color: #ffffff;
+  letter-spacing: 0.02em;
+   text-align: center;
 }
 
 .info-title {
