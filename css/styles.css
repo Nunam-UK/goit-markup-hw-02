@@ -64,7 +64,7 @@ button {
   text-transform: uppercase;
 }
 
-.header-logo span {
+.accent-header {
   color: #2e2f42;
 }
 
@@ -78,7 +78,7 @@ button {
   text-transform: uppercase;
 }
 
-.footer-logo span {
+.accent-footer {
   color: #f4f4fd;
 }
 
