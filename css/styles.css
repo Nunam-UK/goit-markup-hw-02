@@ -25,8 +25,8 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   border: none;
-  border-radius: 4px;
-  padding: 16px 32px;
+  
+  
 }
 
 .order-button:hover,
@@ -112,7 +112,7 @@ button {
 .info-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
