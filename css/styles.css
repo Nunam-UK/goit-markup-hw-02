@@ -41,21 +41,31 @@ button:active {
 .header-logo {
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #2e2f42;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 .header-logo span {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 .footer-logo {
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #f4f4fd;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 .footer-logo span {
-  color: #4d5ae5;
+  color:  #f4f4fd;
+}
+
+.contacts {
+  font-style: normal; 
 }
 .contacts-item {
   font-weight: 400;
