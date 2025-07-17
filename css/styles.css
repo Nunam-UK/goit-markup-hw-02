@@ -18,8 +18,19 @@ button {
   cursor: pointer;
   background-color: #4d5ae5;
 }
+.order-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  border: none;
+  border-radius: 4px;
+  padding: 16px 32px;
+}
 
-button:active {
+.order-button:hover,
+.order-button:focus {
   background-color: #404bbf;
 }
 
@@ -64,15 +75,15 @@ button:active {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  text-transform: uppercase
+  text-transform: uppercase;
 }
 
 .footer-logo span {
-  color:  #f4f4fd;
+  color: #f4f4fd;
 }
 
 .contacts {
-  font-style: normal; 
+  font-style: normal;
 }
 .contacts-item {
   font-weight: 400;
