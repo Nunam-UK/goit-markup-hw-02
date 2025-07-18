@@ -26,7 +26,6 @@ button {
   letter-spacing: 0.04em;
   border: none;
   color: #ffffff;
-  
 }
 
 .order-button:hover,
@@ -108,20 +107,25 @@ button {
   line-height: 1.07;
   color: #ffffff;
   letter-spacing: 0.02em;
-   text-align: center;
+  text-align: center;
 }
 
 .benefits {
-  background-color: #ffffff; 
+  background-color: #ffffff;
 }
 
 .benefits-list {
-
 }
 
 .benefits-item {
-  
 }
+
+.benefits-title {
+  font-size: 0; /* або зроби дуже маленьким */
+  height: 1px;
+  overflow: hidden;
+}
+
 .benefits-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -142,14 +146,14 @@ button {
   background-color: #f4f4fd;
 }
 
-.team-main-title{
+.team-main-title {
   font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-align: center;
-text-transform: capitalize;
-color:  #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .team-card {
@@ -179,7 +183,7 @@ color:  #2e2f42;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  color:  #2e2f42;
+  color: #2e2f42;
 }
 
 .portfolio-card {
