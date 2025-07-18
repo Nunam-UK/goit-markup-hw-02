@@ -121,8 +121,7 @@ button {
 }
 
 .benefits-title {
-  font-size: 0; /* або зроби дуже маленьким */
-  height: 1px;
+  font-size: 0;
   overflow: hidden;
 }
 
